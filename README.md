@@ -83,4 +83,6 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 ---
 
 ## Author
-Kalusha Aguti
+[Kalusha Aguti]  
+[kalushaaguti@gmail.com]  
+[linkedin.com/in/kalusha-aguti-654006189]

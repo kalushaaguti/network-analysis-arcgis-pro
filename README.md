@@ -28,7 +28,7 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 - Added barriers to simulate road closures
 - Produced turn-by-turn directions
 
-![Route](maps/route.png)
+![Route](maps/route.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 - Identified nearest hospitals to an incident
 - Generated routes and travel times
 
-![Closest Facility](maps/closest_facility.png)
+![Closest Facility](maps/closest_facility.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 - Mapped areas reachable within a 4-minute drive
 - Used fire stations as facilities
 
-![Service Area](maps/service_area.png)
+![Service Area](maps/service_area.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 - Identified optimal store locations
 - Maximized customer attendance and market share
 
-![Location Allocation](maps/location_allocation.png)
+![Location Allocation](maps/location_allocation.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 - Calculated travel times between origins and destinations
 - Identified areas with limited accessibility
 
-![OD Matrix](maps/od_matrix.png)
+![OD Matrix](maps/od_matrix.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ This project demonstrates multiple network analysis techniques using ArcGIS Proâ
 - Optimized delivery routes with constraints
 - Included capacity, time windows, and breaks
 
-![VRP](maps/vrp.png)
+![VRP](maps/vrp.jpg)
 
 ---
 
